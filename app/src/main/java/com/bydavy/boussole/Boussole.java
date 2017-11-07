@@ -34,6 +34,7 @@ public class Boussole extends Activity {
 
 	//La vue de notre boussole
 	private CompassView compassView;
+    private TextView distanceTextView;
 	
 	//Le gestionnaire des capteurs
 	private SensorManager sensorManager;
@@ -63,6 +64,7 @@ public class Boussole extends Activity {
             // use STREAM_ALARM for the media stream
             //v.vibrate(pattern,0);
             updateLocation(location.bearingTo(targetLocation));
+            updateDistance(dist);
         }
 
         public void onStatusChanged(String provider, int status, Bundle extras) {}
@@ -96,6 +98,10 @@ public class Boussole extends Activity {
         };
 
         compassView = (CompassView)findViewById(R.id.compassView);
+        distanceTextView = (TextView)findViewById(R.id.distancetextView);
+        distanceTextView.setTextColor(getResources().getColor(R.color.textColor));
+        distanceTextView.setText("distance...");
+
         //R�cup�ration du gestionnaire de capteurs
         sensorManager = (SensorManager)getSystemService(Context.SENSOR_SERVICE);
         //Demander au gestionnaire de capteur de nous retourner les capteurs de type boussole
@@ -104,6 +110,8 @@ public class Boussole extends Activity {
         if (sensors.size() > 0) {
         	sensor = sensors.get(0);
         }
+
+
     }
     
 	//Mettre � jour l'orientation
@@ -112,6 +120,8 @@ public class Boussole extends Activity {
 	}
     //Mettre � jour la localisation
     protected void updateLocation(float location) { compassView.setMyLocation(location); }
+
+    protected void updateDistance(float distance) { distanceTextView.setText(""+distance); }
 
 	@Override
     protected void onResume(){

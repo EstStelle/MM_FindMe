@@ -1,4 +1,4 @@
-#Tue Nov 07 13:40:13 CET 2017
-base.0=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Tue Nov 07 21:23:34 CET 2017
+base.0=C\:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,78 +1,78 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:3:7-36
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:3:7-36
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:5:7-32
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:4:7-30
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:8:22-63
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:8:22-63
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:9:5-67
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:9:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:10:5-81
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:10:22-78
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:10:22-78
 uses-feature#android.hardware.location.gps
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:11:5-66
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:11:5-66
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:11:19-63
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:11:19-63
 application
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:12:5-23:19
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:12:5-23:19
 	android:label
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:12:48-80
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:12:48-80
 	android:icon
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:12:18-47
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:12:18-47
 activity#com.bydavy.boussole.Boussole
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:13:9-20:20
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:13:9-20:20
 	android:screenOrientation
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:15:19-55
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:15:19-55
 	android:label
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:14:19-51
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:14:19-45
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:13:19-43
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:13:19-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:16:13-19:29
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:16:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:18:27-74
 uses-library#com.google.android.maps
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:21:9-64
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:21:9-64
 	android:name
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:21:23-61
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:21:23-61
 uses-sdk
-ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:24:5-43
+ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:24:5-43
 	android:targetSdkVersion
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml:24:15-40
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Allard\Documents\Polytech Grenoble\RICM5\Semestre9\MM\boussole2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml:24:15-40
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\src\main\AndroidManifest.xml

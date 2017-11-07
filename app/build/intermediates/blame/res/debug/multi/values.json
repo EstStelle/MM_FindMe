@@ -70,5 +70,89 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 42,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 46,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 43,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 231,
+                        "endColumn": 40,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 45,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
     }
 ]
