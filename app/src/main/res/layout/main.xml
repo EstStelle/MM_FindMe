@@ -5,7 +5,10 @@
     android:id="@+id/searchView"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="horizontal"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:orientation="vertical"
+    android:textAlignment="center"
     android:visibility="visible">
 
     <com.bydavy.boussole.view.CompassView xmlns:android="http://schemas.android.com/apk/res/android"
@@ -16,9 +19,13 @@
 
     <TextView
         android:id="@+id/distancetextView"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="12sp"
         android:text="Distance"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        android:textStyle="bold"
         android:visibility="visible" />
 </LinearLayout>
 

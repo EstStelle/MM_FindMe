@@ -4,6 +4,6 @@
     <color name="newColor">#66CCCC</color>
     <color name="northPointer">#FF0000</color>
     <color name="southPointer">#000000</color>
-    <color name="textColor">#FF0000</color>
+    <color name="textColor">#ff0000</color>
     <string name="app_name">Boussole</string>
 </resources>

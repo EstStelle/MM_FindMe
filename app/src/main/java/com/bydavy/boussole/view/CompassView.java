@@ -165,7 +165,7 @@ public class CompassView extends View {
 
         // Paint pour les 2 aiguilles, Nord et Sud
         northPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
-        northPaint.setColor(r.getColor(R.color.newColor));
+        northPaint.setColor(r.getColor(R.color.southPointer));
         southPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
         southPaint.setColor(r.getColor(R.color.northPointer));
 

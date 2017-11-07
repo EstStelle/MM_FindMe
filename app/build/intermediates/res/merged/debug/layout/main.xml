@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/searchView"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="horizontal"
-    >
-    <com.bydavy.boussole.view.CompassView	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:orientation="vertical"
+    android:textAlignment="center"
+    android:visibility="visible">
+
+    <com.bydavy.boussole.view.CompassView xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/compassView"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:layout_margin="5px"/>
+        android:layout_margin="5px" />
+
     <TextView
         android:id="@+id/distancetextView"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:text="Distance"/>
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="12sp"
+        android:text="Distance"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
 </LinearLayout>
 
 
