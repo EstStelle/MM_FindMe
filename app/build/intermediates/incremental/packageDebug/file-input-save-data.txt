@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Nov 07 13:40:13 CET 2017
+1.base=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.file=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=DEX
+3.base=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+0.file=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=C\:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\res\\resources-debug.ap_

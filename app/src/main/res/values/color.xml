@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="northPointer">#FF0000</color>
+	<color name="southPointer">#000000</color>
+	<color name="compassCircle">#CCCCFF</color>
+	<color name="newColor">#66CCCC</color>
+</resources>

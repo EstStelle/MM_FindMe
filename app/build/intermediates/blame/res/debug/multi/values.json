@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 42,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 185,
+                        "endColumn": 39,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 46,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 45,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
