@@ -1,4 +1,7 @@
-#Tue Nov 07 22:44:48 CET 2017
-base.0=C\:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Wed Nov 08 10:05:50 CET 2017
+base.0=C\:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2c4913078f64ad973a5b44b14a6e589f76fc8640
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2d6188a90de6cc9a2ae111c1e6a4926bf367e6a2\\classes.dex
+base.1=C\:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2d6188a90de6cc9a2ae111c1e6a4926bf367e6a2
+file.0=C\:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2c4913078f64ad973a5b44b14a6e589f76fc8640\\classes.dex

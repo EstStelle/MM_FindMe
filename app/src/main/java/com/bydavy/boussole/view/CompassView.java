@@ -233,7 +233,8 @@ public class CompassView extends View {
         // On designe l'aiguille Nord
         canvas.drawPath(trianglePath, northPaint);
 
-        // On tourne notre vue de 180 degre pour dessiner l'auguille Sud
+        // On tourne notre vue de l'angle obtenu a l'aide de bearing to
+        // pour dessiner l'auguille indiquant la direction de l'enfant
         canvas.rotate(myLocation, centerX, centerY);
         canvas.drawPath(trianglePath, southPaint);
 

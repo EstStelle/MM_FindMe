@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2d6188a90de6cc9a2ae111c1e6a4926bf367e6a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e7d49c4879e2da82ca78d79026c56043d158c93">
+        <dex dex="C:\Users\Alice\Documents\cours\semestre 9\MM_FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2c4913078f64ad973a5b44b14a6e589f76fc8640\classes.dex" />
+    </item>
+
+</items>

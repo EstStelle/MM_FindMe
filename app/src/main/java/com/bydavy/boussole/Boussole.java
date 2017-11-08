@@ -40,6 +40,8 @@ public class Boussole extends Activity {
 	private SensorManager sensorManager;
 	//Notre capteur de la boussole numerique
 	private Sensor sensor;
+
+    private Vibrator vibrator;
 	
 	//Notre listener sur le capteur de la boussole numerique
 	private final SensorEventListener sensorListener = new SensorEventListener() {
@@ -59,12 +61,11 @@ public class Boussole extends Activity {
             // Called when a new location is found by the network location provider.
             float dist = location.distanceTo(new Location(targetLocation));
             // on rajoute les vibrations en fonction de la distance
-            //int indexVibration;
-            long[] pattern = {100*(long)dist};
-            // use STREAM_ALARM for the media stream
-            //v.vibrate(pattern,0);
             updateLocation(location.bearingTo(targetLocation));
             updateDistance(dist);
+            if (dist >2){
+                vibrator.vibrate((long)dist*100);
+            }
         }
 
         public void onStatusChanged(String provider, int status, Bundle extras) {}
@@ -79,6 +80,9 @@ public class Boussole extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+
+        vibrator=(Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+
         //Acquire a reference to the system Location Manager
         LocationManager locationManager = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
         Criteria criteria = new Criteria();
@@ -114,26 +118,26 @@ public class Boussole extends Activity {
 
     }
     
-	//Mettre � jour l'orientation
+	//Mettre à jour l'orientation
     protected void updateOrientation(float rotation) {
 		compassView.setNorthOrientation(rotation);
 	}
-    //Mettre � jour la localisation
+    //Mettre à jour la localisation
     protected void updateLocation(float location) { compassView.setMyLocation(location); }
-
+    // Mettre à jour la distance
     protected void updateDistance(float distance) { distanceTextView.setText(""+distance); }
 
 	@Override
     protected void onResume(){
     	super.onResume();
-    	//Lier les �v�nements de la boussole num�rique au listener
+    	//Lier les evenements de la boussole numerique au listener
     	sensorManager.registerListener(sensorListener, sensor, SensorManager.SENSOR_DELAY_NORMAL);
 	}
 	
 	@Override
 	protected void onStop(){
 		super.onStop();
-		//Retirer le lien entre le listener et les �v�nements de la boussole num�rique
+		//Retirer le lien entre le listener et les evenements de la boussole numerique
 		sensorManager.unregisterListener(sensorListener);
 	}
 }

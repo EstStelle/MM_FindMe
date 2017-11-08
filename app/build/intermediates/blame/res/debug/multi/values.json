@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,14 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\color.xml"
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 144,
+                        "endColumn": 44,
+                        "endOffset": 187
+                    }
                 }
             },
             {
@@ -23,13 +30,13 @@
                     "endOffset": 141
                 },
                 "from": {
-                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
-                        "startOffset": 185,
+                        "startOffset": 190,
                         "endColumn": 39,
-                        "endOffset": 223
+                        "endOffset": 228
                     }
                 }
             },
@@ -42,7 +49,14 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\color.xml"
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
                 }
             },
             {
@@ -54,72 +68,14 @@
                     "endOffset": 235
                 },
                 "from": {
-                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\color.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 240,
-                    "endColumn": 45,
-                    "endOffset": 281
-                },
-                "from": {
-                    "file": "C:\\Users\\Allard\\Documents\\Polytech Grenoble\\RICM5\\Semestre9\\MM\\boussole2\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 47,
-                    "endOffset": 98
-                },
-                "from": {
-                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 103,
-                    "endColumn": 42,
-                    "endOffset": 141
-                },
-                "from": {
-                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 146,
-                    "endColumn": 46,
-                    "endOffset": 188
-                },
-                "from": {
-                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 193,
-                    "endColumn": 46,
-                    "endOffset": 235
-                },
-                "from": {
-                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml"
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 99,
+                        "endColumn": 43,
+                        "endOffset": 141
+                    }
                 }
             },
             {
@@ -150,7 +106,14 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Alice\\Documents\\cours\\semestre 9\\MM_FindMe\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 45,
+                        "endOffset": 99
+                    }
                 }
             }
         ]
